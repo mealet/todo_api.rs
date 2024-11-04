@@ -1,0 +1,12 @@
+[package]
+name = "todo_api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenvy = "0.15.7"
+rocket = "0.5.1"
+serde = { version = "1.0.214", features = ["derive"] }
+surrealdb = "2.0.4"
+tokio = { version = "1.41.0", features = ["macros", "rt-multi-thread"] }
+
