@@ -1,0 +1,16 @@
+#V2
+exit
+clear
+SELECT * FROM tasks
+exit
+SELECT * FROM tasks
+DELETE tasks
+SELECT * FROM tasks
+eixt
+CREATE tasks SET title = "Title 1", description = "Heey, this is task!", finished = false
+CREATE tasks SET title = "Title 2", description = "hello!", finished = false
+exit
+SELECT * FROM tasks
+exit
+SELECT * FROM tasks:kh0agq3tgkhfiwzrglhv
+exit
